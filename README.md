@@ -1,0 +1,2 @@
+# ShoppingGuide
+Ecommerce Web Scraping
