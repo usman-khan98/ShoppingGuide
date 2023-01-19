@@ -18,3 +18,5 @@ Frontend
 Admin
 1. cd admin
 2. npm start
+3. username : admin12@gmail.com
+   password: Admin@12
