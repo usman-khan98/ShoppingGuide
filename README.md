@@ -49,5 +49,6 @@ Admin
 
 ![image](https://user-images.githubusercontent.com/88879256/220309343-18c35adc-385e-40b2-af8b-5b4e48ef863c.png)
 
-![image](https://user-images.githubusercontent.com/88879256/220309495-20fe0c6c-afd3-4ae1-b145-c5d993323293.png)
+![Capture](https://user-images.githubusercontent.com/88879256/220311822-db08a4ba-b090-42a7-852f-7fe805d92483.PNG)
+
 
